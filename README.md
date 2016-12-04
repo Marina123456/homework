@@ -7,4 +7,8 @@
 В json файле находится описание html-элемента (наименование тега, стили, события). JS-скрипт превращает json описание в тег.
 
 <img src="/json/img/1.png" width=250><br> <img src="/json/img/2.png" width=250><br>
-<a href="">3.json - вывод информации график Ганта</a><br>
+<a href="http://rawgit.com/Marina123456/JsonProject/master/index.html">3. json - вывод информации график Ганта</a><br>
+файл json
+<img src="/img/1.png">
+внешний вид графика
+<img src="/img/2.png">
