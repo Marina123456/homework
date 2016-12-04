@@ -6,5 +6,5 @@
 
 В json файле находится описание html-элемента (наименование тега, стили, события). JS-скрипт превращает json описание в тег.
 
-<img src="/json/img/1.png" width=200><br> <img src="/json/img/1.png" width=200><br>
+<img src="/json/img/1.png" width=250><br> <img src="/json/img/2.png" width=250><br>
 <a href="">3. Vue, json - вывод информации</a><br>
