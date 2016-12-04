@@ -8,7 +8,7 @@
 
 <img src="/json/img/1.png" width=250><br> <img src="/json/img/2.png" width=250><br>
 <a href="http://rawgit.com/Marina123456/JsonProject/master/index.html">3. json - вывод информации график Ганта</a><br>
-файл json
+файл json<br>
 <img src="/img/1.png"><br>
 внешний вид графика<br>
 <img src="/img/2.png"><br>
