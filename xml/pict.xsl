@@ -16,7 +16,7 @@ indent="yes" />
 <xsl:for-each select="gallery/pictures/picture">
 	<div class="one-pict">
 		<span class="one-pict-name"><xsl:value-of select="title"/></span><br/>
-		<img width="200" src=""><xsl:attribute name="src"><xsl:value-of select="link"/></xsl:attribute></img><br/>
+		<img width="200" src=""><xsl:attribute name="src">https://raw.githubusercontent.com/Marina123456/homework/master/xml/<xsl:value-of select="link"/></xsl:attribute></img><br/>
 		<p><xsl:value-of select="descrpiption"/></p><br/>
 	</div>
 </xsl:for-each>
