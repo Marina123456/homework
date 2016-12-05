@@ -14,4 +14,4 @@
 <img src="/img/2.png"><br>
 <a href="https://rawgit.com/Marina123456/homework/master/xml/pictures.xml">4. Свой язык.</a><br>
 XML<br>
-<img src="/json/img/3.png" width=250><br> <img src="/json/img/2.png" width=250><br>
+<img src="/img/3.png" width=250><br> 
